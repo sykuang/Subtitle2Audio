@@ -1,0 +1,3 @@
+[submodule "AzureTTS"]
+	path = AzureTTS
+	url = https://github.com/sykuang/AzureTTS.git
